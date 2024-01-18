@@ -1,5 +1,5 @@
-const lightTheme = "styles/light.css";
-const darkTheme = "styles/dark.css";
+const lightTheme = "style/light.css";
+const darkTheme = "style/dark.css";
 const sunIcon = "assets/SunIcon.svg";
 const moonIcon = "assets/MoonIcon.svg";
 const themeIcon = document.getElementById("theme-icon");

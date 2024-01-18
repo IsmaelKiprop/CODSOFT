@@ -12,8 +12,9 @@ The main objective of this project is to apply your HTML and CSS skills to creat
 
 ### Technologies Used
 
-- HTML
-- CSS
+- HTML5
+- CSS3
+- Bootstrap 4
 
 ### Project Structure
 

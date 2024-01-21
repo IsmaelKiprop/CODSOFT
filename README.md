@@ -38,7 +38,7 @@ This project involves creating a personal portfolio website using HTML and CSS. 
 
 ### Demo
 
-For a demo of the personal portfolio, [click here](#).
+For a demo of the personal portfolio, [click here](https://ismaelkiprop.github.io/PORTFOLIO/).
 
 ## Task 2: Landing Page
 
@@ -53,7 +53,7 @@ This project involves creating a landing page using HTML and CSS. The landing pa
 
 ### Demo
 
-For a demo of the landing page, [click here](#).
+For a demo of the landing page, [click here](https://ismaelkiprop.github.io/LANDINGPAGE/).
 
 ## Task 3: Basic Calculator
 
@@ -69,4 +69,4 @@ This project involves creating a basic calculator using CSS, HTML, and JavaScrip
 
 ### Demo
 
-For a demo of the basic calculator, [click here](#).
+For a demo of the basic calculator, [click here](https://ismaelkiprop.github.io/CALCULATOR/).

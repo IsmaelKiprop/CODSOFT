@@ -1,14 +1,14 @@
-/* CSS Reset & Global Styles */
+/* Dark Mode Styles */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Open Sans';
+  font-family: 'Roboto', sans-serif;
   -webkit-appearance: none;
 }
 
 ::placeholder {
-  color: rgb(221, 221, 221);
+  color: #555; /* Adjusted placeholder color for dark mode */
 }
 
 .wrapper {
@@ -18,14 +18,14 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(20, 19, 19);
+  background-color: #333; /* Dark background color */
   transition: 0.8s all;
 }
 
 h1 {
   margin-bottom: 1.5%;
-  color: #fff;
-  font-weight: normal;
+  color: #fff; /* Text color in dark mode */
+  font-weight: bold;
 }
 
 .container {
@@ -34,6 +34,10 @@ h1 {
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  background-color: #444; /* Dark background color */
+  border: 2px solid #666; /* Adjusted border color for dark mode */
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1); /* Adjusted box shadow color for dark mode */
 }
 
 .header-container {
@@ -46,19 +50,18 @@ h1 {
 .top-buttons {
   display: flex;
   align-items: center;
-
 }
 
 input {
-  padding: 25px;
-  color: rgb(255, 255, 255);
-  font-size: 1em;
+  padding: 15px;
+  color: #fff; /* Text color in dark mode */
+  font-size: 1.2em;
   cursor: pointer;
   width: 70px;
-  background-color: rgb(47, 51, 50);
-  border: none;
+  background-color: #555; /* Dark background color */
+  border: 1px solid #444; /* Adjusted border color for dark mode */
   outline: none;
-  border-radius: 100px;
+  border-radius: 5px;
   margin: 0.2em;
 }
 
@@ -71,23 +74,22 @@ input {
 }
 
 input[type="text"] {
-  background-color: rgb(47, 51, 50);
+  background-color: #555; /* Dark background color */
   width: 222.5px;
 }
 
 input[type="button"]:hover {
-  background-color: rgb(101, 101, 101);
-  color: #fff;
+  background-color: #666; /* Adjusted hover color for dark mode */
 }
 
 #clear-button {
   color: #fff;
-  background-color: rgb(255, 42, 42);
+  background-color: #e44d26; /* Darker color for clear button in dark mode */
 }
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: #fff; /* Text color for links in dark mode */
 }
 
 #github-icon {

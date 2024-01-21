@@ -1,0 +1,112 @@
+/* Classic Calculator Styles */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-appearance: none;
+}
+
+::placeholder {
+  color: #888;
+}
+
+.wrapper {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f2f2f2;
+  transition: 0.8s all;
+}
+
+h1 {
+  margin-bottom: 1.5%;
+  color: #333;
+  font-weight: bold;
+}
+
+.container {
+  width: 350px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+
+.top-buttons {
+  display: flex;
+  align-items: center;
+}
+
+input {
+  padding: 15px;
+  color: #333;
+  font-size: 1.2em;
+  cursor: pointer;
+  width: 70px;
+  background-color: #eee;
+  border: 1px solid #ddd;
+  outline: none;
+  border-radius: 5px;
+  margin: 0.2em;
+}
+
+.first-row,
+.second-row,
+.third-row,
+.fourth-row,
+.fifth-row {
+  margin-bottom: 4px;
+}
+
+input[type="text"] {
+  background-color: #eee;
+  width: 222.5px;
+}
+
+input[type="button"]:hover {
+  background-color: #ddd;
+}
+
+#clear-button {
+  color: #fff;
+  background-color: #e44d26;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+#github-icon {
+  margin-right: 10px;
+}
+
+.theme-button {
+  all: unset;
+  cursor: pointer;
+}
+
+#github-icon,
+#theme-icon {
+  filter: brightness(0);
+}
+
+#github-icon:hover,
+#theme-icon:hover {
+  filter: brightness(1);
+}

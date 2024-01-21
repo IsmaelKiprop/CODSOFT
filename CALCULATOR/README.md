@@ -3,7 +3,7 @@
 This project involves creating a simple calculator using HTML, CSS, and JavaScript. The calculator provides an interactive interface with buttons for addition, subtraction, multiplication, and division operations. It includes a display screen to show user input and results.
 
 ## Demo
-[Click here for live demo](#)
+[Click here for live demo](https://ismaelkiprop.github.io/CALCULATOR/)
 
 ## Technologies Used
 - HTML

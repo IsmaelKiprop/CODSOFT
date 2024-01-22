@@ -1,4 +1,9 @@
 # Landing Page Project Readme
+<div style="display: flex; justify-content: center;">
+  <p style="margin: 0;">
+    <img width="948" alt="image" src="https://github.com/IsmaelKiprop/CODSOFT/assets/133222922/79691a74-0827-4cc0-9931-b79d4f47a667">
+  </p>
+</div>
 
 ## Welcome
 

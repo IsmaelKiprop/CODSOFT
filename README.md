@@ -63,12 +63,10 @@ This project involves creating a landing page using HTML and CSS. The landing pa
 For a demo of the landing page, [click here](https://ismaelkiprop.github.io/LANDINGPAGE/).
 
 ## Task 3: Basic Calculator
-<div style="display: flex; justify-content: center;">
-  <p style="margin: 0;">
+  <p align="center">
   <img width="206" alt="image1" src="https://github.com/IsmaelKiprop/CODSOFT/assets/133222922/47f96686-781b-4a4e-a4c1-f2fbb1f48cc3">
   <img width="211" alt="image2" src="https://github.com/IsmaelKiprop/CODSOFT/assets/133222922/2b1c71be-2eb9-4c93-92d3-671d6f88f23c">
   </p>
-</div>
 
 ### Project Overview
 

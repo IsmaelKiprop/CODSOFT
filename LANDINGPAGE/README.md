@@ -41,6 +41,10 @@ The project structure is simple, consisting of HTML and CSS files. Here's a brie
 
 3. **Edit HTML and CSS:** Navigate to the `index.html` file to structure your landing page content. Customize the styles in the `styles.css` file to achieve the desired design.
 
+## Live Demo
+
+Check out the live demo [here](https://ismaelkiprop.github.io/LANDINGPAGE/).
+
 ## Tips for Success
 
 - **Experiment:** Feel free to experiment with different design elements. Try out various color combinations, font styles, and layouts to discover what works best for your landing page.

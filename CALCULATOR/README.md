@@ -1,4 +1,7 @@
 # Basic Calculator Project
+<div style="text-align: center;">
+  <img width="206" alt="image" src="https://github.com/IsmaelKiprop/CODSOFT/assets/133222922/47f96686-781b-4a4e-a4c1-f2fbb1f48cc3">
+</div>
 
 This project involves creating a simple calculator using HTML, CSS, and JavaScript. The calculator provides an interactive interface with buttons for addition, subtraction, multiplication, and division operations. It includes a display screen to show user input and results.
 

@@ -44,7 +44,11 @@ This project involves creating a personal portfolio website using HTML and CSS. 
 For a demo of the personal portfolio, [click here](https://ismaelkiprop.github.io/PORTFOLIO/).
 
 ## Task 2: Landing Page
-
+<div style="display: flex; justify-content: center;">
+  <p style="margin: 0;">
+    <img width="948" alt="image" src="https://github.com/IsmaelKiprop/CODSOFT/assets/133222922/79691a74-0827-4cc0-9931-b79d4f47a667">
+  </p>
+</div>
 ### Project Overview
 
 This project involves creating a landing page using HTML and CSS. The landing page is an ideal beginner project that requires basic knowledge of HTML and CSS. It allows you to showcase creativity in design, focusing on alignments, padding, color palette, and other design elements. Pay attention to details to ensure a visually appealing and user-friendly design.

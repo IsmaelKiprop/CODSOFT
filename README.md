@@ -5,6 +5,9 @@
 # Web Development Internship - Level 1
 
 ## Task 1: Personal Portfolio
+<p align="center">
+<img width="944" alt="image" src="https://github.com/IsmaelKiprop/CODSOFT/assets/133222922/03972e85-26bc-42f8-b27d-c7ad085e1101">
+</p>
 
 ### Project Overview
 

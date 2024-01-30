@@ -11,7 +11,7 @@
 
 ### Project Overview
 
-This project involves creating a personal portfolio website using HTML and CSS. The portfolio consists of several sections such as the header, about, skills, projects, resume, contact, and footer. The aim is to showcase your name, skills, projects, and contact information in a visually appealing and user-friendly manner.
+This project involves creating a personal portfolio website using HTML,CSS and JavaScript. The portfolio consists of several sections such as the header, about, skills, projects, resume, contact, and footer. The aim is to showcase your name, skills, projects, and contact information in a visually appealing and user-friendly manner.
 
 ### Project Structure
 
